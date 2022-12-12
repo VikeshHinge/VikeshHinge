@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vikeshvhinge@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NjYTmcy-QMo6D5-SIzWSZRSEzFuq5Com/view?usp=sharing](https://drive.google.com/file/d/1NjYTmcy-QMo6D5-SIzWSZRSEzFuq5Com/view?usp=sharing)
+- 📄 Know about my experiences []([]())
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
