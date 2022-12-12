@@ -1,7 +1,7 @@
 ![logo](https://github.com/VikeshHinge/VikeshHinge/blob/main/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">Hi 👋, I'm Vikesh Hinge</h1>
-<h3 align="center">A passionate frontend developer working in progress..💻</h3>
+<h3 align="center">A passionate full stack web developer from India. I’m an inquisitive and highly motivated Full Stack web developer with specialization in MERN                             stack, worked through 1000+ hours of bootcamp structure learning. working in progress..💻</h3>
 
 <img align="right" alt="coding" width="400" src='https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif'>
 
