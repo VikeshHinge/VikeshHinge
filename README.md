@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vikeshvhinge@gmail.com**
 
-- 📄 Know about my experiences []([]())
+- 📄 Know about my experiences []([https://vikeshhinge.github.io/]())
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
